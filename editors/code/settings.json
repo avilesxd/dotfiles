@@ -1,0 +1,36 @@
+{
+  "workbench.iconTheme": "material-icon-theme",
+  "workbench.sideBar.location": "right",
+  "workbench.productIconTheme": "fluent-icons",
+  "cSpell.language": "en,es",
+  "git.enableSmartCommit": true,
+  "git.confirmSync": false,
+  "liveServer.settings.donotShowInfoMsg": true,
+  "editor.fontFamily": "MesloLGM NF",
+  "editor.guides.bracketPairs": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnPaste": true,
+  "editor.formatOnSave": true,
+  "editor.formatOnType": true,
+  "prettier.eslintIntegration": true,
+  "editor.quickSuggestions": {
+    "strings": true
+  },
+  "liveServer.settings.donotVerifyTags": true,
+  "editor.rulers": [140],
+  "eslint.validate": [
+    "javascript",
+    "javascriptreact",
+    "typescript",
+    "typescriptreact"
+  ],
+  "eslint.alwaysShowStatus": true,
+  "eslint.format.enable": true,
+  "eslint.lintTask.enable": true,
+  "eslint.quiet": true,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  },
+  "prettier.jsxSingleQuote": true,
+  "workbench.colorCustomizations": {}
+}
