@@ -1,6 +1,7 @@
 adpyke.codesnap
 bmewburn.vscode-intelephense-client
 bradlc.vscode-tailwindcss
+Codeium.codeium
 dbaeumer.vscode-eslint
 dsznajder.es7-react-js-snippets
 esbenp.prettier-vscode

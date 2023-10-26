@@ -3,12 +3,9 @@
   "workbench.sideBar.location": "right",
   "workbench.productIconTheme": "fluent-icons",
   "cSpell.language": "en,es",
-  "git.enableSmartCommit": true,
-  "git.confirmSync": false,
   "liveServer.settings.donotShowInfoMsg": true,
   "editor.fontFamily": "MesloLGM NF",
   "editor.guides.bracketPairs": true,
-  "editor.defaultFormatter": "esbenp.prettier-vscode",
   "editor.formatOnPaste": true,
   "editor.formatOnSave": true,
   "editor.formatOnType": true,
@@ -32,5 +29,12 @@
     "source.fixAll.eslint": true
   },
   "prettier.jsxSingleQuote": true,
-  "workbench.colorCustomizations": {}
+  "workbench.colorCustomizations": {},
+  "codeium.enableConfig": {
+    "*": true,
+    "markdown": true
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  }
 }

@@ -31,3 +31,5 @@ alias up='dot package update_all'
 
 # Own aliases
 alias cls="clear"
+alias cdd="cd dev"
+alias nft="neofetch"
