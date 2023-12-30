@@ -26,15 +26,36 @@
   "eslint.lintTask.enable": true,
   "eslint.quiet": true,
   "editor.codeActionsOnSave": {
-    "source.fixAll.eslint": true
+    "source.fixAll.eslint": "explicit"
   },
-  "prettier.jsxSingleQuote": true,
   "workbench.colorCustomizations": {},
   "codeium.enableConfig": {
     "*": true,
-    "markdown": true
+    "markdown": true,
+    "plaintext": true,
+    "properties": true
   },
-  "[javascript]": {
-    "editor.defaultFormatter": "esbenp.prettier-vscode"
-  }
+  "diffEditor.ignoreTrimWhitespace": false,
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "files.exclude": {
+    "**/.trunk/*actions/": true,
+    "**/.trunk/*logs/": true,
+    "**/.trunk/*notifications/": true,
+    "**/.trunk/*out/": true,
+    "**/.trunk/*plugins/": true
+  },
+  "files.watcherExclude": {
+    "**/.trunk/*actions/": true,
+    "**/.trunk/*logs/": true,
+    "**/.trunk/*notifications/": true,
+    "**/.trunk/*out/": true,
+    "**/.trunk/*plugins/": true
+  },
+  "editor.defaultFormatter": "trunk.io",
+  "trunk.enableWindows": true,
+  "editor.minimap.enabled": false,
+  "explorer.compactFolders": false,
+  "window.titleBarStyle": "custom",
+  "git.openRepositoryInParentFolders": "always"
 }

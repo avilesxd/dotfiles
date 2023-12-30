@@ -1,6 +1,7 @@
 adpyke.codesnap
 bmewburn.vscode-intelephense-client
 bradlc.vscode-tailwindcss
+coddx.coddx-alpha
 Codeium.codeium
 dbaeumer.vscode-eslint
 dsznajder.es7-react-js-snippets
@@ -8,11 +9,12 @@ esbenp.prettier-vscode
 fivethree.vscode-ionic-snippets
 formulahendry.auto-close-tag
 formulahendry.auto-rename-tag
-infeng.vscode-react-typescript
 Ionic.ionic
+jmkrivocapich.drawfolderstructure
 kisstkondoros.vscode-gutter-preview
 miguelsolorio.fluent-icons
 mintlify.document
+ms-azuretools.vscode-docker
 MS-CEINTL.vscode-language-pack-es
 ms-python.black-formatter
 ms-python.isort
@@ -27,11 +29,10 @@ ritwickdey.LiveServer
 RyuukiBeat.editorconfig-gen
 samuelcolvin.jinjahtml
 SimonSiefke.svg-preview
-stateful.runme
 streetsidesoftware.code-spell-checker
 streetsidesoftware.code-spell-checker-spanish
 styled-components.vscode-styled-components
-thekalinga.bootstrap4-vscode
+trunk.io
 usernamehw.errorlens
 vivaxy.vscode-conventional-commits
 wix.vscode-import-cost
